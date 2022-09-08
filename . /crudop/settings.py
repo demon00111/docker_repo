@@ -69,6 +69,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'crudop.wsgi.application'
 
+STATIC_URL = 'static/'
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
